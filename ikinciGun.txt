@@ -2,3 +2,5 @@ Git Github ikinci gun, ilk deneme
 Git Github ikinci gun, ikinci deneme
 Git Github ikinci gun, ucuncu deneme
 Git Github ikinci gun, MASTER DIRENCI
+Git Github carsamba gunu ilk deneme
+Git Github carsamba gunu ikinci deneme
